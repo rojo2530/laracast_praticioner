@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteBase /laracast_praticioner/Parte19_Forms_Request_Types_and_Routing
+RewriteRule ^.*$ index.php [END]
